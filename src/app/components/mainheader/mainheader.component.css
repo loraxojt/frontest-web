@@ -1,0 +1,6 @@
+.height{
+   min-height: 100vh;
+}
+.header-image{
+    background:linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url(../../../assets/images/main.jpg)center/cover no-repeat fixed;
+}
